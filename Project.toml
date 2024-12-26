@@ -1,0 +1,7 @@
+[deps]
+Cbc = "9961bab8-2fa3-5c5a-9d89-47fab24efd76"
+Clp = "e2554f3b-3117-50c0-817c-e040a3ddf72d"
+HiGHS = "87dc4568-4c63-4d18-b0c0-bb2238e4078b"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+REopt = "d36ad4e8-d74a-4f7a-ace1-eaea049febf6"
+Xpress = "9e70acf3-d6c9-5be6-b5bd-4e2c73e3e054"
